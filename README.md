@@ -1,6 +1,6 @@
-![IsologoMoka](https://user-images.githubusercontent.com/107226769/184506761-d467ae48-8e38-4551-b342-d9fc48091852.png)
-### Hi there 👋
 
+### Hi there 👋
+Cancel changes
 <!--
 **lvroc/lvroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
